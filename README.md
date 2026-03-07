@@ -17,6 +17,6 @@ Computer Science student building data structures and Java projects, interested 
 - GitHub
 
 ## Currently Learning
-- Data Structures (Linked Lists, Generics, ADTs)
+- Data Structures
 - Algorithms and problem solving
 - Computer systems fundamentals
