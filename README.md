@@ -11,10 +11,10 @@ Computer Science student building data structures and Java projects, interested 
 
 ## Skills
 - Java
-- Python
 - Data Structures
 - Object-Oriented Programming
-- GitHub
+- Pythoon
+- Git
 
 ## Currently Learning
 - Data Structures
