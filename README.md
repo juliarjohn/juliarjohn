@@ -13,7 +13,7 @@ Computer Science student building data structures and Java projects, interested 
 - Java
 - Data Structures
 - Object-Oriented Programming
-- Pythoon
+- Python
 - Git
 
 ## Currently Learning
