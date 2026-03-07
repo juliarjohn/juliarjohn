@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Julia John 👋
 
-<!--
-**juliarjohn/juliarjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student building data structures and Java projects, interested in data science, software development, and analytics.
 
-Here are some ideas to get you started:
+## Projects
+- Student Scheduling System  
+  Java project using arrays and linked lists to manage course schedules.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Generic Hangar ADT  
+  Java project demonstrating generics, interfaces, and ArrayList with LIFO behavior.
+
+## Skills
+- Java
+- Python
+- Data Structures
+- Object-Oriented Programming
+- GitHub
+
+## Currently Learning
+- Data Structures (Linked Lists, Generics, ADTs)
+- Algorithms and problem solving
+- Computer systems fundamentals
