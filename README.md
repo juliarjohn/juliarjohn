@@ -42,6 +42,7 @@ Computer Science student focused on software engineering, data analysis, and bui
 - GitHub
 - Jupyter Notebook
 - Eclipse
+- Excel
 
 **Concepts**
 - Data Structures
