@@ -60,5 +60,5 @@ Computer Science student focused on software engineering, data analysis, and bui
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/juliarjohn31  
-- Email: juliarjohn31@gmail.com
+  LinkedIn: https://linkedin.com/in/juliarjohn31  
+  Email: juliarjohn31@gmail.com
