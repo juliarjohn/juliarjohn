@@ -6,19 +6,21 @@ Computer Science student focused on software engineering, data analysis, and bui
 
 ## Projects
 
-• **Spotify Focus Music Analyzer**  
-Python | Pandas | NumPy | Matplotlib
+- **Spotify Focus Music Analyzer**
 
-Python data analysis project exploring ~114,000 Spotify tracks to examine relationships between audio features and study-friendly music.
+  Python | Pandas | NumPy | Matplotlib
 
-Repository: https://github.com/juliarjohn/spotify-focus-music-analyzer
+  Python data analysis project exploring ~114,000 Spotify tracks to examine relationships between audio features and study-friendly music.
 
-• **Student Scheduling System**  
-Java | Data Structures
+  Repository: https://github.com/juliarjohn/spotify-focus-music-analyzer
 
-Java project implementing a hybrid data structure using arrays and linked lists to manage student course schedules.
+- **Student Scheduling System**
 
-Repository: https://github.com/juliarjohn/student-scheduling-system
+  Java | Data Structures
+
+  Java project implementing a hybrid data structure using arrays and linked lists to manage student course schedules.
+  
+  Repository: https://github.com/juliarjohn/student-scheduling-system
 
 ---
 
