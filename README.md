@@ -8,9 +8,13 @@ I enjoy building systems in Java and exploring datasets using Python.
 ## Projects
 
 • **Spotify Focus Music Analyzer**  
+Python | Pandas | NumPy | Matplotlib
+
 Python data analysis project exploring ~114,000 Spotify tracks to examine relationships between audio features and study-friendly music.
 
 • **Student Scheduling System**  
+Java | Data Structures
+
 Java project implementing a hybrid data structure using arrays and linked lists to manage student course schedules.
 
 ---
