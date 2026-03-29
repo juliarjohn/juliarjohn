@@ -15,7 +15,7 @@ Incoming Data Science student @ Rutgers University – New Brunswick
   Built a machine learning model to predict focus-friendly music using Spotify audio features from a dataset of 114,000+ tracks.  
 Developed an interactive Streamlit web app allowing real-time predictions based on user input.  
 
-  Repository: [https://github.com/juliarjohn/spotify-focus-music-analyzer](https://github.com/juliarjohn/spotify-focus-music-predictor)
+  Repository: [https://github.com/juliarjohn/spotify-focus-music-predictor](https://github.com/juliarjohn/spotify-focus-music-predictor)
 
 - **Student Scheduling System**
 
