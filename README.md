@@ -1,24 +1,25 @@
 # Hi, I'm Julia John 👋
 
-Computer Science student focused on software engineering, data analysis, and building systems that combine strong data structures with practical problem solving.
+Computer Science student transitioning into Data Science, with experience building machine learning models and data-driven applications using real-world datasets (114K+ Spotify tracks).
 
 ---
 
 ## Projects
 
-- **Spotify Focus Music Analyzer**
+- **Spotify Focus Music Predictor**
 
-  Python | Pandas | NumPy | Matplotlib
+  Python | Pandas | NumPy | Scikit-learn | Streamlit 
 
-  Python data analysis project exploring ~114,000 Spotify tracks to examine relationships between audio features and study-friendly music.
+  Built a machine learning model to predict focus-friendly music using Spotify audio features from a dataset of 114,000+ tracks.  
+Developed an interactive Streamlit web app allowing real-time predictions based on user input.  
 
-  Repository: https://github.com/juliarjohn/spotify-focus-music-analyzer
+  Repository: [https://github.com/juliarjohn/spotify-focus-music-analyzer](https://github.com/juliarjohn/spotify-focus-music-predictor)
 
 - **Student Scheduling System**
 
   Java | Data Structures
 
-  Java project implementing a hybrid data structure using arrays and linked lists to manage student course schedules.
+  Implemented a hybrid data structure using arrays and linked lists to efficiently manage course scheduling operations (add/drop/search).
   
   Repository: https://github.com/juliarjohn/student-scheduling-system
 
@@ -36,6 +37,7 @@ Computer Science student focused on software engineering, data analysis, and bui
 - Pandas
 - NumPy
 - Matplotlib
+- Sckikit-learn
 
 **Tools**
 - Git
@@ -48,14 +50,15 @@ Computer Science student focused on software engineering, data analysis, and bui
 - Data Structures
 - Object-Oriented Programming
 - Algorithms
+- Machine Learning
 
 ---
 
 ## Currently Learning
 
-- Algorithms and problem solving
-- Computer systems fundamentals
-- Data science and analytics
+- Machine learning model development  
+- Data analysis and visualization  
+- Algorithms and problem solving  
 
 ---
 
