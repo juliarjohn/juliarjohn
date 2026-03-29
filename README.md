@@ -2,6 +2,8 @@
 
 Computer Science student transitioning into Data Science, with experience building machine learning models and data-driven applications using real-world datasets (114K+ Spotify tracks).
 
+Incoming Data Science student @ Rutgers University – New Brunswick
+
 ---
 
 ## Projects
