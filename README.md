@@ -28,29 +28,16 @@ Developed an interactive Streamlit web app allowing real-time predictions based 
 ## Technical Skills
 
 **Languages**
-- Java
-- Python
-- SQL
-- MIPS
+Java, Python, SQL, MIPS
 
 **Libraries**
-- Pandas
-- NumPy
-- Matplotlib
-- Sckikit-learn
+Pandas, NumPy, Matplotlib, Sckikit-learn
 
 **Tools**
-- Git
-- GitHub
-- Jupyter Notebook
-- Eclipse
-- Excel
+Git, GitHub, Jupyter Notebook, Eclipse, Excel
 
 **Concepts**
-- Data Structures
-- Object-Oriented Programming
-- Algorithms
-- Machine Learning
+Data Structures, Object-Oriented Programming, Algorithms, Machine Learning
 
 ---
 
