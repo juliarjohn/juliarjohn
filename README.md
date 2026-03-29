@@ -17,7 +17,7 @@ Developed an interactive Streamlit web app allowing real-time predictions based 
 
   Repository: [https://github.com/juliarjohn/spotify-focus-music-predictor](https://github.com/juliarjohn/spotify-focus-music-predictor)
 
-  Live App: [https://spotify-focus-music-predictor.streamlit.app/](https://spotify-focus-music-predictor.streamlit.app/)
+  Live Demo: [https://spotify-focus-music-predictor.streamlit.app/](https://spotify-focus-music-predictor.streamlit.app/)
 
 - **Student Scheduling System**
 
