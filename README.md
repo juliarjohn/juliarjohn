@@ -2,8 +2,6 @@
 
 Computer Science student at Rutgers University–New Brunswick interested in data science, machine learning, and building practical software with real-world data.
 
-Incoming Data Science student @ Rutgers University – New Brunswick
-
 ---
 
 ## Projects
