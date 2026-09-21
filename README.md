@@ -38,15 +38,7 @@ Pandas, NumPy, Matplotlib, Sckikit-learn
 Git, GitHub, Jupyter Notebook, Eclipse, Excel
 
 **Concepts:**
-Data Structures, Object-Oriented Programming, Algorithms, Machine Learning
-
----
-
-## Currently Learning
-
-- Machine learning model development  
-- Data analysis and visualization  
-- Algorithms and problem solving  
+Data Structures, Object-Oriented Programming, Algorithms, Machine Learning, Relational Databases
 
 ---
 
