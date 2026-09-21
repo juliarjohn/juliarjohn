@@ -1,6 +1,6 @@
 # Hi, I'm Julia John 👋
 
-Computer Science student transitioning into Data Science, with experience building machine learning models and data-driven applications using real-world datasets (114K+ Spotify tracks).
+Computer Science student at Rutgers University–New Brunswick interested in data science, machine learning, and building practical software with real-world data.
 
 Incoming Data Science student @ Rutgers University – New Brunswick
 
@@ -12,8 +12,7 @@ Incoming Data Science student @ Rutgers University – New Brunswick
 
   Python | Pandas | NumPy | Scikit-learn | Streamlit 
 
-  Built a machine learning model to predict focus-friendly music using Spotify audio features from a dataset of 114,000+ tracks.  
-Developed an interactive Streamlit web app allowing real-time predictions based on user input.  
+  Built a machine learning model to classify focus-friendly music using audio features from 114,000+ Spotify tracks. Developed and deployed an interactive Streamlit application that generates predictions from user input.
 
   Repository: [https://github.com/juliarjohn/spotify-focus-music-predictor](https://github.com/juliarjohn/spotify-focus-music-predictor)
 
